@@ -55,8 +55,8 @@ ansible_network_os=nxos
 ansible_connection=network_cli
 
 [linux]
-rhel-dc1-idm
-rhel-dc2-idm
+rhel-dc1-srv
+rhel-dc2-arv
 
 [linux:vars]
 ansible_become=yes
