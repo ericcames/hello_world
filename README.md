@@ -33,8 +33,6 @@ ansible_password: !vault |
        65656439626166666363323435613131643066353762333232326232323565376635
 
 [ios]
-ios-dc1-rtr
-ios-dc2-rtr
 ios-dc1-swt
 ios-dc2-swt
 
