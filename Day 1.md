@@ -8,7 +8,7 @@ Ansible Automation Platform (AAP) is transformative technology. It will allow ou
 </p>
 
 Create Ansible Automation Platform (AAP) software repository template<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[hello_world github template](https://github.com/ericcames/hello_world)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - [hello_world github template](https://github.com/ericcames/hello_world)<br>
 Use the repository template to create a new software repository (Ansible Project)<br>
 Create new project in AAP<br>
     - Talk about “source control branch”
