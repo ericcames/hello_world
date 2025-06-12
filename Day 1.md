@@ -9,13 +9,13 @@ Ansible Automation Platform (AAP) is transformative technology. It will allow ou
 
 Create Ansible Automation Platform (AAP) software repository [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Example github template](https://github.com/ericcames/hello_world)<br>
-Use the repository template to create a new software repository (Ansible Project)<br>
+[Use the repository template to create a new software repository (Ansible Project)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)<br>
 Create new project in AAP<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Talk about “source control branch”
-&nbsp;&nbsp;&nbsp;&nbsp;Talk about “update revision on launch”
-&nbsp;&nbsp;&nbsp;&nbsp;Talk about naming convention currently used
+&nbsp;&nbsp;&nbsp;&nbsp;Talk about “source control branch”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Talk about “update revision on launch”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Talk about naming convention currently used<br>
 Create a new playbook in the development branch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Create collections/requirements.yml
+&nbsp;&nbsp;&nbsp;&nbsp;Create collections/requirements.yml<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Talk about using fully qualified collection names (FQCN)<br>
 Commit playbook into the remote development branch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Talk about creating a team norm for code commit messages<br>
@@ -25,7 +25,7 @@ Pull request review<br>
 Merge pull request<br>
 Sync project in AAP<br>
 Update inventory in AAP if needed<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Talk about using dynamic src inventories
+&nbsp;&nbsp;&nbsp;&nbsp;Talk about using dynamic src inventories<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Talk about a team agreement on host naming convention, my recommendation is fully qualified domain names (FQDN)<br>
 Create machine credential in AAP if needed<br>
 Create AAP job template<br>
