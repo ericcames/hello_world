@@ -21,7 +21,7 @@ Ansible Automation Platform (AAP) is transformative technology. It will allow ou
 &nbsp;&nbsp;&nbsp;&nbsp;* Talk about creating a team norm for code commit messages<br>
 6. Create new pull request to merge development changes into main branch<br>
 7. Pull request review<br>
-&nbsp;&nbsp;&nbsp;&nbsp;* Talk about [CODEOWNERS<](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Talk about [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)<br>
 8. Merge pull request<br>
 9. Sync project in AAP<br>
 10. Update inventory in AAP if needed<br>
