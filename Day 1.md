@@ -2,13 +2,13 @@ First day on the job as an Ansible Automation Platform Engineer
 =========
 Ansible Automation Platform (AAP) is transformative technology. It will allow our teams to continuously improve the way they work together if we are open to it. Be patient with yourself and others as you learn to work more effectively over time.
 
-Goals
-=========
+### Goals
+
 <p>
 </p>
 
 Create Ansible Automation Platform (AAP) software repository template<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [hello_world github template](https://github.com/ericcames/hello_world "hello_world github template")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[hello_world github template](https://github.com/ericcames/hello_world)<br>
 Use the repository template to create a new software repository (Ansible Project)<br>
 Create new project in AAP<br>
     - Talk about “source control branch”
