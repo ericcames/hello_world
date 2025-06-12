@@ -8,7 +8,7 @@ Goals
 </p>
 
 Create Ansible Automation Platform (AAP) software repository template<br>
-    - [hello_world github template](https://github.com/ericcames/hello_world "hello_world github template")
+    - [hello_world github template](https://github.com/ericcames/hello_world "hello_world github template")<br>
 Use the repository template to create a new software repository (Ansible Project)<br>
 Create new project in AAP<br>
     - Talk about “source control branch”
