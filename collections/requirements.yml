@@ -10,8 +10,8 @@ collections:
   #   version: 2.5.3
   - name: ansible.hub
     version: 1.0.0
-  - name: ansible.controller
-    version: 4.6.2
+  # - name: ansible.controller
+  #   version: 4.6.2
   - name: ansible.eda
     version: 2.2.0
   - name: infra.aap_configuration
