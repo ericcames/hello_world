@@ -24,7 +24,7 @@ collections:
     version: 3.8.0
   - name: community.general
     version: 8.1.0
-  - name: redhat.rhel_system_roles
-    version: 1.88.9
+  # - name: redhat.rhel_system_roles
+  #   version: 1.88.9
   - name: redhat.satellite
     version: 5.1.0
