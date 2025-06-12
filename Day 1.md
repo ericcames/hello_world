@@ -1,6 +1,6 @@
 First day on the job as an Ansible Automation Platform Engineer
 =========
-Ansible Automation Platform (AAP) is transformative technology. It will allow our teams to continuously improve the way we work together if we are open to it. Be patient with yourself and others as you learn to work more effectively over time.
+Ansible Automation Platform (AAP) is transformative technology. It will allow our teams to continuously improve the way we work together if we are open to it. Be patient with yourself and others as you learn to work more effectively over time. The way we work in the future will be different then how we work today.
 
 ### Goals
 
@@ -15,7 +15,7 @@ Ansible Automation Platform (AAP) is transformative technology. It will allow ou
 &nbsp;&nbsp;&nbsp;&nbsp;* Talk about “update revision on launch”<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Talk about naming convention currently used<br>
 4. Create a new playbook in the development branch<br>
-&nbsp;&nbsp;&nbsp;&nbsp;* Talk about collections/requirements.yml<br>
+&nbsp;&nbsp;&nbsp;&nbsp;* Talk about collections/[requirements.yml](https://github.com/ericcames/hello_world/blob/main/collections/requirements.yml)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Talk about using fully qualified collection names (FQCN)<br>
 5. Commit playbook into the remote development branch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Talk about creating a team norm for code commit messages<br>
